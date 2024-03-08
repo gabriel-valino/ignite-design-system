@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "build": "storybook build",
+    "build": "storybook build && touch ./storybook-static/.nojekyll",
     "dev": "storybook dev -p 6006",
     "build-vite": "tsc && vite build",
     "deploy-storybook": "storybook-to-ghpages"
