@@ -17,6 +17,6 @@
     "tsup": "^8.0.2",
     "typescript": "^5.3.3",
     "@gabriel-valino-ignite-ui/ts-config": "*",
-    "@ignite-ui/eslint-config": "*"
+    "@gabriel-valino-ignite-ui/eslint-config": "*"
   }
 }
